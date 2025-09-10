@@ -1,4 +1,5 @@
-﻿# Ignore database and large zip files
+# Ignore large data files
+zippedData/im.db/im.db
+zippedData/im.db.zip
 *.db
-*.db.zip
 *.zip
